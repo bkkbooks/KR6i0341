@@ -1,0 +1,869 @@
+canonical_identifier: bkk:krp/KR6i0341/v1
+canonical_location: https://kanripo.org/bkk/KR6i0341/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞伽經纂
+  identifiers:
+    alt_id:
+    - X17n0325
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X17/X17n0325.xml
+    old_id: X17n0325
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0341_000.yaml, hash: 'sha256:49942e4eab6f2b2a566cfea289995fdd28cf8a73e72e87b575ac923f43012704'}
+  - {seq: 1, filename: KR6i0341_001.yaml, hash: 'sha256:bf9e37a3436bc4574a724b83a465b866be9c55a534d5cc9b5ade2c34ba6653ee'}
+  - {seq: 2, filename: KR6i0341_002.yaml, hash: 'sha256:84cfce22b9be8c87b6f3324f7b59aae08fe5eb550394dab0291509df334485e5'}
+  - {seq: 3, filename: KR6i0341_003.yaml, hash: 'sha256:31d51c4d2b8d94e5bff5f5c236e56f6d8f5ecabbc459dfa124679c4c3ab3b45c'}
+  - {seq: 4, filename: KR6i0341_004.yaml, hash: 'sha256:9835b35c54f1fcd528f3b95739474b3aa95e67cde557f1d0e1ecb282a35e77ef'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0341_000.markers.yaml, hash: 'sha256:7960709feadb1900b293ea3afbe5daf2e81d1178b8d2ee73897c532eae280a9e'}
+  - {seq: 1, role: markers, filename: assets/KR6i0341_001.markers.yaml, hash: 'sha256:388865d98fa8ef1c41806af70a9b24d04fadc3fdd318f41861a4d20da5df4d30'}
+  - {seq: 2, role: markers, filename: assets/KR6i0341_002.markers.yaml, hash: 'sha256:55670bab9eb6dbb33c0b3bb767f1a744eb24d1f7a308b850759f8bc9d5ea224c'}
+  - {seq: 3, role: markers, filename: assets/KR6i0341_003.markers.yaml, hash: 'sha256:c6bb0763cfde03b38491bc06e11ad0b359ea9ba27970646e670c3641082a1466'}
+  - {seq: 4, role: markers, filename: assets/KR6i0341_004.markers.yaml, hash: 'sha256:2843d2e1b48917d85c5c3a242fc6f66182681651699b885822a28a3919a421c6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0341_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 325-A 楞伽經纂序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0341_X_000-mulu-2
+    span:
+    - front
+    - 1030
+    - 1030
+  label: 楞伽經纂目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9364
+  label: 楞伽經纂卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一切佛語心品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-2
+    span:
+    - body
+    - 154
+    - 154
+  label: 指明真相分第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-3
+    span:
+    - body
+    - 1300
+    - 1300
+  label: 了妄明真分第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-4
+    span:
+    - body
+    - 2454
+    - 2454
+  label: 澄識明心分第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-5
+    span:
+    - body
+    - 3082
+    - 3082
+  label: 超乘證幻分第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-6
+    span:
+    - body
+    - 3222
+    - 3222
+  label: 有無俱遣分第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-7
+    span:
+    - body
+    - 4009
+    - 4009
+  label: 漸淨即頓分第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-8
+    span:
+    - body
+    - 4659
+    - 4659
+  label: 離二種聲聞分第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-9
+    span:
+    - body
+    - 5057
+    - 5057
+  label: 常不思議差別分第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-10
+    span:
+    - body
+    - 5498
+    - 5498
+  label: 生死涅槃差別分第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-11
+    span:
+    - body
+    - 5687
+    - 5687
+  label: 一切法不生差別分第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-12
+    span:
+    - body
+    - 5878
+    - 5878
+  label: 五無間種性差別分第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-13
+    span:
+    - body
+    - 6387
+    - 6387
+  label: 一闡提差別分第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-14
+    span:
+    - body
+    - 6699
+    - 6699
+  label: 三自性差別分第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-15
+    span:
+    - body
+    - 6936
+    - 6936
+  label: 觀二無我分第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-16
+    span:
+    - body
+    - 7680
+    - 7680
+  label: 離建立誹謗分第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-17
+    span:
+    - body
+    - 8065
+    - 8065
+  label: 隨類普現分第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-18
+    span:
+    - body
+    - 8274
+    - 8274
+  label: 空離自性分第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0341_X_001-mulu-19
+    span:
+    - body
+    - 9285
+    - 9285
+  label: 離言即義分第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 8353
+  label: 楞伽經纂卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一切佛語心品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 無我如來藏分第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-3
+    span:
+    - body
+    - 404
+    - 404
+  label: 修行大方便分第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-4
+    span:
+    - body
+    - 827
+    - 827
+  label: 離緣因俱漸分第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-5
+    span:
+    - body
+    - 1166
+    - 1166
+  label: 離言說妄想分第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-6
+    span:
+    - body
+    - 1618
+    - 1618
+  label: 淨離四句分第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-7
+    span:
+    - body
+    - 2091
+    - 2091
+  label: 禪差別分第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-8
+    span:
+    - body
+    - 2329
+    - 2329
+  label: 涅槃差別分第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-9
+    span:
+    - body
+    - 2533
+    - 2533
+  label: 離言事自性分第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-10
+    span:
+    - body
+    - 2593
+    - 2593
+  label: 如來神力建立分第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-11
+    span:
+    - body
+    - 2798
+    - 2798
+  label: 因緣言說差別分第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-12
+    span:
+    - body
+    - 3052
+    - 3052
+  label: 離惑乱見分第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-13
+    span:
+    - body
+    - 4137
+    - 4137
+  label: 如幻差別分第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-14
+    span:
+    - body
+    - 4804
+    - 4804
+  label: 離名句形身分第三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-15
+    span:
+    - body
+    - 5019
+    - 5019
+  label: 離相止惑分第三十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-16
+    span:
+    - body
+    - 5466
+    - 5466
+  label: 離四果差別分第三十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-17
+    span:
+    - body
+    - 6271
+    - 6271
+  label: 二種覺分第三十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-18
+    span:
+    - body
+    - 6575
+    - 6575
+  label: 離四大造色分第三十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-19
+    span:
+    - body
+    - 6914
+    - 6914
+  label: 諸陰自性相分第三十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-20
+    span:
+    - body
+    - 7203
+    - 7203
+  label: 離四種涅槃差別分第三十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-21
+    span:
+    - body
+    - 7687
+    - 7687
+  label: 離妄想自性差別分第三十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0341_X_002-mulu-22
+    span:
+    - body
+    - 8119
+    - 8119
+  label: 自覺一乘相分第三十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 5743
+  label: 楞伽經纂卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一切佛語心品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 意生身分第四十
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-3
+    span:
+    - body
+    - 370
+    - 370
+  label: 離五無間分第四十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-4
+    span:
+    - body
+    - 786
+    - 786
+  label: 佛知覺分第四十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-5
+    span:
+    - body
+    - 867
+    - 867
+  label: 佛等一切分第四十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-6
+    span:
+    - body
+    - 994
+    - 994
+  label: 自得本住分第四十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-7
+    span:
+    - body
+    - 1205
+    - 1205
+  label: 離有無有相分第四十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-8
+    span:
+    - body
+    - 1615
+    - 1615
+  label: 宗說俱通相分第四十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-9
+    span:
+    - body
+    - 1745
+    - 1745
+  label: 離不實妄想分第四十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-10
+    span:
+    - body
+    - 2037
+    - 2037
+  label: 離語義妄想分第四十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-11
+    span:
+    - body
+    - 2212
+    - 2212
+  label: 袪別智識相分第四十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-12
+    span:
+    - body
+    - 2450
+    - 2450
+  label: 離外道轉變見分第五十
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-13
+    span:
+    - body
+    - 2639
+    - 2639
+  label: 解脫相續相分第五十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-14
+    span:
+    - body
+    - 2920
+    - 2920
+  label: 了妄即空分第五十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-15
+    span:
+    - body
+    - 3930
+    - 3930
+  label: 壞諸法不生宗分第五十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-16
+    span:
+    - body
+    - 4405
+    - 4405
+  label: 離智即心分第五十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-17
+    span:
+    - body
+    - 4820
+    - 4820
+  label: 如來說宗俱通相分第五十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-18
+    span:
+    - body
+    - 4931
+    - 4931
+  label: 離世論分第五十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0341_X_003-mulu-19
+    span:
+    - body
+    - 5270
+    - 5270
+  label: 離涅槃想分第五十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 10139
+  label: 楞伽經纂卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一切佛語心品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 離一切根量分第五十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-3
+    span:
+    - body
+    - 330
+    - 330
+  label: 不生不滅離言說分第五十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-4
+    span:
+    - body
+    - 601
+    - 601
+  label: 袪外道不生不滅分第六十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-5
+    span:
+    - body
+    - 1202
+    - 1202
+  label: 袪外道七無常見分第六十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-6
+    span:
+    - body
+    - 2296
+    - 2296
+  label: 超諸地相分第六十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-7
+    span:
+    - body
+    - 3309
+    - 3309
+  label: 滅諸地而證圓覺分第六十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-8
+    span:
+    - body
+    - 3936
+    - 3936
+  label: 離常無常分第六十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-9
+    span:
+    - body
+    - 4585
+    - 4585
+  label: 滅識即藏分第六十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-10
+    span:
+    - body
+    - 5335
+    - 5335
+  label: 五法三自性二無我分別相分第六十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-11
+    span:
+    - body
+    - 5917
+    - 5917
+  label: 優曇恒沙譬喻分第六十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-12
+    span:
+    - body
+    - 6689
+    - 6689
+  label: 剎那壞相差別分第六十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-13
+    span:
+    - body
+    - 7336
+    - 7336
+  label: 三種波羅蜜差別分第六十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-14
+    span:
+    - body
+    - 7852
+    - 7852
+  label: 如來說法離諸過差別分第七十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-15
+    span:
+    - body
+    - 8498
+    - 8498
+  label: 戒飲食分第七十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-16
+    span:
+    - body
+    - 8615
+    - 8615
+  label: No. 325-B 楞伽後序
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0341_X_004-mulu-17
+    span:
+    - body
+    - 9257
+    - 9257
+  label: No. 325-C 楊居士楞伽經纂後序
+  type: mulu
+  level: 1
+hash: sha256:56790e044c259b1f8f4c2db4805fcf2593a4b1e4d2a08a226ad791d005994131
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
