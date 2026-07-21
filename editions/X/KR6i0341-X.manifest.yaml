@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0341_000-X.yaml, hash: 'sha256:4bf8b4454f31ed3f835fd0429142cd13d3d175c7425e4daccf67a9f986fda8e4'}
+  - {seq: 0, filename: KR6i0341_000-X.yaml, hash: 'sha256:c06371bd5ed739d5241779c660aae8b4b300e5165f8da91b5a5082e970684a4d'}
   - {seq: 1, filename: KR6i0341_001-X.yaml, hash: 'sha256:1598c5792f80f1be9ce7decb6612651fe660d132ddc2c768481075f417d93749'}
   - {seq: 2, filename: KR6i0341_002-X.yaml, hash: 'sha256:c1f1279602e5d656ea99ea101a672b1c80742b6baeaf7bf1857eb5149c3fe51a'}
   - {seq: 3, filename: KR6i0341_003-X.yaml, hash: 'sha256:81f1caadc180fc3909d53b3c51ae21ba373290d3b9cfffc538ae2f43d8c97572'}
   - {seq: 4, filename: KR6i0341_004-X.yaml, hash: 'sha256:ee949b4402dea121c6eef90b46cc3e68b170400a839a9a50c253422eeeb06748'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0341_000-X.markers.yaml, hash: 'sha256:d9cef4a94b7714ccad8064ab520e52420276bf36330ad8045ce1ba40585b9195'}
+  - {seq: 0, role: markers, filename: assets/KR6i0341_000-X.markers.yaml, hash: 'sha256:cad0230dea7fdd6bd00a9fbaa47c2fbc33b09debd515801fe4e89c5d064192c2'}
   - {seq: 1, role: markers, filename: assets/KR6i0341_001-X.markers.yaml, hash: 'sha256:9320eccbb41240672b7701544db3a78713c99c3c26a0fbe2d0ea3601802eebe4'}
   - {seq: 2, role: markers, filename: assets/KR6i0341_002-X.markers.yaml, hash: 'sha256:4bb37102057b6105ab03cab1f96440ebf3c1ecd07a25f059edec6d2615599a31'}
   - {seq: 3, role: markers, filename: assets/KR6i0341_003-X.markers.yaml, hash: 'sha256:5f3d92a7f23ec78b0ca4ae4a13a249b3cb86bd22cf0a71d05df37f5c25c8b487'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0341_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 325-A 楞伽經纂序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0341_X_000-mulu-2
     span:
-    - front
+    - body
     - 1030
     - 1030
   label: 楞伽經纂目次
@@ -861,4 +861,4 @@ table_of_contents:
   label: No. 325-C 楊居士楞伽經纂後序
   type: mulu
   level: 1
-hash: sha256:a6cb9adac0304f7ed7f18cc68a756224f20eb58075428113ab7982b5b733eeb0
+hash: sha256:0c60bf7ee011415eb385ea7826614d132682bec3cc4baf27ee66788563e29a32
